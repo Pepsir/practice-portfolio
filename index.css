@@ -1,0 +1,61 @@
+/*Google Font*/
+
+body {
+	font-family: 'Karla', sans-serif;
+	background-image: linear-gradient(to bottom, #03004e, #001f64, #003776, #004f84, #00668f, #287899, #438aa4, #5d9cae, #7dafbe, #9bc1ce, #b8d5de, #d6e8ee);
+}
+
+
+p {
+	font-family: 'Tajawal', sans-serif;
+}
+
+#content {
+	position: relative;
+	z-index: 2;
+	text-align: center;
+	padding-top: 5px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.navbar-nav {
+	margin-right: 10%;
+}
+
+/*#navb {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	height: 8%;
+	width: 50%;
+	background-color: #03004e;
+	z-index: 1;
+
+}*/
+
+/*#Joseph {
+	position: fixed;
+	top: 15%;
+	left: 0px;
+	height: auto;
+	width: 50%;
+	background-color: #800000;
+	z-index: 1;
+}*/
+
+/*#first-project #second-project #third-project {
+
+}*/
+
+.map-wrapper {
+	max-width: 600px;
+}
+
+#google-map {
+	width: 100%;
+}
+
+#border-iframe #border-contact {
+	border-style: none;
+}
